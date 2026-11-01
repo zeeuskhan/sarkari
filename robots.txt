@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://rajasthannews.vercel.app/sitemap.xml
+Sitemap: https://rajasthannews.vercel.app/news-sitemap.xml
